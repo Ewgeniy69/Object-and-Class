@@ -53,6 +53,7 @@ public class Main {
         Book book1 = new Book("Трейдинг", author1, 2018);
         Book book2 = new Book("Волк с Уолл-Стрит", author2, 2022);
 
+        System.out.println("Task");
         System.out.println("book1.bookTitle = " + book1.getBookTitle());
         System.out.println("book1.author = " + book1.getAuthor());
 
